@@ -18,7 +18,7 @@ To run the program:
 
     New Terminal Window
 
-    `dotnet run` 
+    dotnet run
 
 
 # Useful Websites
