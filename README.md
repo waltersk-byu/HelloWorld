@@ -6,14 +6,17 @@ Showing integration with Visual Studio Code and C#
 
 The program was created to do end to end integration with Visual Studio Code and GitHub
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Hello World Demo on YouTube](https://youtube.com/shorts/p-pBcgLPOvU)
 
 # Development Environment
 
 .net 6.0
 Visual Studio Code 
+To run the program:
+    New Terminal Window
+    dotnet run
+    
 
 # Useful Websites
 
