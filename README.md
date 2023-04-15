@@ -13,10 +13,11 @@ The program was created to do end to end integration with Visual Studio Code and
 
 .net 6.0
 Visual Studio Code 
+
 To run the program:
     New Terminal Window
     dotnet run
-    
+
 
 # Useful Websites
 
