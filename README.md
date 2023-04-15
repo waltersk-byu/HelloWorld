@@ -15,12 +15,14 @@ The program was created to do end to end integration with Visual Studio Code and
 Visual Studio Code 
 
 To run the program:
+
     New Terminal Window
-    dotnet run
+
+    `code` dotnet run
 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+
 * [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win)
 * [Getting Started with VS Code and C#](https://learn.microsoft.com/en-us/shows/dotnet/get-started-vscode-csharp-net-core-windows)
