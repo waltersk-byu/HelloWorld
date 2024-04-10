@@ -7,7 +7,7 @@ Showing integration with Visual Studio Code and C#
 The program was created to do end to end integration with Visual Studio Code and GitHub
 
 
-[Hello World Demo on YouTube](https://youtube.com/shorts/p-pBcgLPOvU)
+[Hello World Demo on YouTube](https://youtu.be/2rY2Hf77rrs)
 
 # Development Environment
 
